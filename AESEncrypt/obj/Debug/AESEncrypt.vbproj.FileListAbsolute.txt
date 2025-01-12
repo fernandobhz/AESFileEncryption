@@ -1,0 +1,10 @@
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\bin\Debug\AESEncrypt.exe.config
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\bin\Debug\AESEncrypt.exe
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\bin\Debug\AESEncrypt.pdb
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\bin\Debug\AESEncrypt.xml
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\obj\Debug\AESEncrypt.Resources.resources
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\obj\Debug\AESEncrypt.Progress.resources
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\obj\Debug\AESEncrypt.vbproj.GenerateResource.Cache
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\obj\Debug\AESEncrypt.exe
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\obj\Debug\AESEncrypt.xml
+c:\users\nandissimo\documents\visual studio 2013\Projects\AESFileEncryption\AESEncrypt\obj\Debug\AESEncrypt.pdb
